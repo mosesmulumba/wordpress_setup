@@ -1,5 +1,5 @@
 # wordpress_setup
-installation of wordpress using a simple yaml file
+Installation of wordpress using a simple a yaml file
 
 # using docker to install wordpress
 I think this is the most simple way.
