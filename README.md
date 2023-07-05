@@ -15,6 +15,6 @@ docker-compose up -d
 so that the logs can load from the background
 
 # Stop the servers
-doscker-compose down
+docker-compose down
 
 
