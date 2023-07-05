@@ -11,7 +11,7 @@ and wordpress services and networks and once.
 # Run the file
 docker-compose up 
 
-## or
+## Or
 docker-compose up -d
 
 so that the logs can load from the background
